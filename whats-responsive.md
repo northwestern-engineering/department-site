@@ -1,5 +1,5 @@
 ```
-{% extends "https://northwestern-engineering.gitbooks.io/main-mccormick-site/content/whats_responsive.md" %}
+{% extends "https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/whats_responsive/README.md" %}
 ```
 
 
