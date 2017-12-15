@@ -1,5 +1,5 @@
 ```
-{% extends "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/whats_responsive/README.md" %
+{% extends "git+https://git.gitbook.com/skyhawkcore/main-mccormick-site.git/whats_responsive/README.md" %
 ```
 
 ```
@@ -8,8 +8,6 @@
 # This is my page content
 {% endblock %}
 ```
-
-
 
 
 
