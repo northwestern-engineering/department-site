@@ -14,5 +14,5 @@
   * [Homepage](module_5_department_page_types/homepage.md)
 * [What's responsive?](whats-responsive.md)
   * [Desktop Size](whats-responsive/desktop-size.md)
-  * README.md
+* [SUMMARY.md](summarymd.md)
 
