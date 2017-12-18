@@ -1,7 +1,6 @@
 # Summary
 
 * [Department Site](README.md)
-* [What's responsive?](whats-responsive.md)
 * [Module 5: Department Page Types](module_5_department_page_types/README.md)
   * [People Listing](module_5_department_page_types/people_listing.md)
   * [Faculty Listing](module_5_department_page_types/faculty_listing.md)
@@ -13,4 +12,6 @@
   * [Course Listing](module_5_department_page_types/course_listing.md)
   * [Course Description](module_5_department_page_types/course_description.md)
   * [Homepage](module_5_department_page_types/homepage.md)
+* [What's responsive?](whats-responsive.md)
+  * [Desktop Size](whats-responsive/desktop-size.md)
 
