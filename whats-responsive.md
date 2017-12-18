@@ -6,5 +6,7 @@
 {% include "./README.md" %}
 ```
 
-
+```
+{% include "./SUMMARY.md" %}
+```
 
