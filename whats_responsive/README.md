@@ -5,11 +5,11 @@
 ```
 
 ```
-{% include "./README.md" %}
+{% include "../README.md" %}
 ```
 
 ```markdown
-{% include "./SUMMARY.md" %}
+{% include "../SUMMARY.md" %}
 ```
 
 ```
