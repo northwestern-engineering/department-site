@@ -10,16 +10,9 @@ This document specifies the blah blah blah
 
 {% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/whats_responsive/README.md" %}
 
-## Absolute Image paths example
-working: 
-```
-![](https://caseycolby.gitbooks.io/test-book/assets/screenshot.png)
-```
-not working: 
-```
-![](/assets/screenshot.png)
-```
-{% include "https://git.gitbook.com/caseycolby/test-book.git/README.md" %}
+## Absolute Image paths
+
+{% include "git+https://git.gitbook.com/caseycolby/test-book.git/README.md" %}
 
 
 
