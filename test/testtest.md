@@ -10,7 +10,6 @@ This document specifies the blah blah blah
 
 {% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/whats_responsive/README.md" %}
 
-## Absolute Image paths
 
 {% include "git+https://git.gitbook.com/caseycolby/test-book.git/README.md" %}
 
