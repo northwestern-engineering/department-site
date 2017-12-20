@@ -5,26 +5,26 @@
   * [Desktop Size](whats_responsive/desktop-size.md)
   * [Tablet Size](whats_responsive/tablet-size.md)
   * [Mobile Phone Size](whats_responsive/mobile-phone-size.md)
-* [Module 1: Cascade Basics 1 Getting Familiar](module_1_cascade_basics_i_getting_familiar/README.md)
-  * [The Toolbar    ](module_1_cascade_basics_i_getting_familiar/the-toolbar.md)
-  * [Logging in to Cascade    ](module_1_cascade_basics_i_getting_familiar/logging-in-to-cascade.md)
-  * [The Home Screen ](module_1_cascade_basics_i_getting_familiar/the-home-screen.md)
-  * [The Dashboard](module_1_cascade_basics_i_getting_familiar/the-dashboard.md)
-  * [Assets](module_1_cascade_basics_i_getting_familiar/assets.md)
-* [Module 2: Editing a Basic Page](module-2-editing-a-basic-page.md)
-  * [Editor Toolbar - WYSIWYG](module-2-editing-a-basic-page/editor-toolbar-wysiwyg.md)
-  * [Basic Formatting](module-2-editing-a-basic-page/basic-formatting.md)
-  * [Headings and Subheadings](module-2-editing-a-basic-page/headings-and-subheadings.md)
-  * Copying and Pasting 
-  * Inserting and Editing Links
-  * Anchor Links
-  * Sidebar Options
-  * Draft
-  * Save & Preview Vs. Submit
-  * Submit Vs. Publish
-  * Publishing or Un-publishing Your Assets 
-  * Publishing the Entire Website
-  * Writing for the Web
+* [Module 1: Cascade Basics 1 Getting Familiar](module_1/README.md)
+  * [Logging in to Cascade    ](module_1/logging-in-to-cascade.md)
+  * [The Toolbar    ](module_1/the-toolbar.md)
+  * [The Home Screen ](module_1/the-home-screen.md)
+  * [The Dashboard](module_1/the-dashboard.md)
+  * [Assets](module_1/assets.md)
+* [Module 2: Editing a Basic Page](module_2/writing_for_the_web.md)
+  * [Editor Toolbar - WYSIWYG](module_2/editor_toolbar_wysiwyg.md)
+  * [Basic Formatting](module_2/basic_formatting.md)
+  * [Headings and Subheadings](module_2/headings_and_subheadings.md)
+  * [Copying and Pasting ](module_2/copying_and_pasting.md)
+  * [Inserting and Editing Links](module_2/inserting_and_editing_links.md)
+  * [Anchor Links](module_2/anchor_links.md)
+  * [Sidebar Options](module_2/sidebar_options.md)
+  * [Draft](module_2/draft.md)
+  * [Save & Preview Vs. Submit](module_2/save_and_preview_vs_submit.md)
+  * [Submit Vs. Publish](module_2/submit_vs_publish.md)
+  * [Publishing or Un-publishing Your Assets ](module_2/publishing_or_un-publishing_your_assets.md)
+  * [Publishing the Entire Website](module_2/publishing_the_entire_website.md)
+  * [Writing for the Web](module_2/writing-for-the-web.md)
 * [Module 5: Department Page Types](module_5_department_page_types/README.md)
   * [People Listing](module_5_department_page_types/people_listing.md)
   * [Faculty Listing](module_5_department_page_types/faculty_listing.md)
