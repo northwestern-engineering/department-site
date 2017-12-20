@@ -1,6 +1,7 @@
 # Summary
 
 * [Department Site](README.md)
+* [What's Responsive?](whats_responsive/README.md)
 * [Module 5: Department Page Types](module_5_department_page_types/README.md)
   * [People Listing](module_5_department_page_types/people_listing.md)
   * [Faculty Listing](module_5_department_page_types/faculty_listing.md)
@@ -14,5 +15,4 @@
   * [Homepage](module_5_department_page_types/homepage.md)
 * [TEST](test.md)
   * [testTEST](test/testtest.md)
-* [What's Responsive?](whats-responsive/README.md)
 
