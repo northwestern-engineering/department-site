@@ -5,6 +5,12 @@
   * [Desktop Size](whats_responsive/desktop-size.md)
   * [Tablet Size](whats_responsive/tablet-size.md)
   * [Mobile Phone Size](whats_responsive/mobile-phone-size.md)
+* [Module 1: Cascade Basics I – Getting Familiar](module-1-cascade-basics-i-getting-familiar.md)
+  * [Logging in to Cascade    ](module-1-cascade-basics-i-getting-familiar/logging-in-to-cascade.md)
+  * The Home Screen 
+  * The Toolbar    
+  * The Dashboard
+  * Assets
 * [Module 5: Department Page Types](module_5_department_page_types/README.md)
   * [People Listing](module_5_department_page_types/people_listing.md)
   * [Faculty Listing](module_5_department_page_types/faculty_listing.md)
