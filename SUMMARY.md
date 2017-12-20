@@ -13,7 +13,7 @@
   * [Assets](module_1_cascade_basics_i_getting_familiar/assets.md)
 * [Module 2: Editing a Basic Page](module-2-editing-a-basic-page.md)
   * [Editor Toolbar - WYSIWYG](module-2-editing-a-basic-page/editor-toolbar-wysiwyg.md)
-  * Basic Formatting
+  * [Basic Formatting](module-2-editing-a-basic-page/basic-formatting.md)
   * [Headings and Subheadings](module-2-editing-a-basic-page/headings-and-subheadings.md)
   * Copying and Pasting 
   * Inserting and Editing Links
