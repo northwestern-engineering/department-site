@@ -19,10 +19,10 @@
   * Assets
 * [TEST](test.md)
   * [testTEST](test/testtest.md)
-* [Module 1: Cascade Basics I – Getting Familiar](module_1_cascade_basics_i__getting_familiar/README.md)
-  * [The Toolbar    ](module_1_cascade_basics_i__getting_familiar/the-toolbar.md)
-  * [Logging in to Cascade    ](module_1_cascade_basics_i__getting_familiar/logging-in-to-cascade.md)
-  * [The Home Screen ](module_1_cascade_basics_i__getting_familiar/the-home-screen.md)
-  * [The Dashboard](module_1_cascade_basics_i__getting_familiar/the-dashboard.md)
-  * [Assets](module_1_cascade_basics_i__getting_familiar/assets.md)
+* [Module 1: Cascade Basics I – Getting Familiar](module_1_cascade_basics_i_getting_familiar/README.md)
+  * [The Toolbar    ](module_1_cascade_basics_i_getting_familiar/the-toolbar.md)
+  * [Logging in to Cascade    ](module_1_cascade_basics_i_getting_familiar/logging-in-to-cascade.md)
+  * [The Home Screen ](module_1_cascade_basics_i_getting_familiar/the-home-screen.md)
+  * [The Dashboard](module_1_cascade_basics_i_getting_familiar/the-dashboard.md)
+  * [Assets](module_1_cascade_basics_i_getting_familiar/assets.md)
 
