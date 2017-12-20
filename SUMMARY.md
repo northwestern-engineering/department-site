@@ -5,7 +5,7 @@
   * [Desktop Size](whats_responsive/desktop-size.md)
   * [Tablet Size](whats_responsive/tablet-size.md)
   * [Mobile Phone Size](whats_responsive/mobile-phone-size.md)
-* [Module 1: Cascade Basics I – Getting Familiar](module-1-cascade-basics-i-getting-familiar.md)
+* [Module 1: Cascade Basics I – Getting Familiar](module-1-cascade-basics-i-getting-familiar/README.md)
   * [Logging in to Cascade    ](module-1-cascade-basics-i-getting-familiar/logging-in-to-cascade.md)
   * The Home Screen 
   * The Toolbar    
