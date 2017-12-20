@@ -2,6 +2,9 @@
 
 * [Department Site](README.md)
 * [What's Responsive?](whats_responsive/README.md)
+  * [Desktop Size](whats_responsive/desktop-size.md)
+  * [Tablet Size](whats_responsive/tablet-size.md)
+  * [Mobile Phone Size](whats_responsive/mobile-phone-size.md)
 * [Module 5: Department Page Types](module_5_department_page_types/README.md)
   * [People Listing](module_5_department_page_types/people_listing.md)
   * [Faculty Listing](module_5_department_page_types/faculty_listing.md)
