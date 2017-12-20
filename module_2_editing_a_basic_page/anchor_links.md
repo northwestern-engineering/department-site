@@ -1,2 +1,2 @@
-{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module\_2\_editing\_a\_basic\_page/anchor\_links.md" %}
+{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_2_editing_a_basic_page/anchor-links.md" %}
 
