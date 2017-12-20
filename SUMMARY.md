@@ -19,7 +19,7 @@
   * Assets
 * [TEST](test.md)
   * [testTEST](test/testtest.md)
-* [Module 1: Cascade Basics I – Getting Familiar](module_1_cascade_basics_i_getting_familiar/README.md)
+* [Module 1: Cascade Basics I Getting Familiar](module_1_cascade_basics_i_getting_familiar/README.md)
   * [The Toolbar    ](module_1_cascade_basics_i_getting_familiar/the-toolbar.md)
   * [Logging in to Cascade    ](module_1_cascade_basics_i_getting_familiar/logging-in-to-cascade.md)
   * [The Home Screen ](module_1_cascade_basics_i_getting_familiar/the-home-screen.md)
