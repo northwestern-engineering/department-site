@@ -1,2 +1,2 @@
-{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/whats_responsive/desktop-size.md" %}
+{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/whats-responsive/desktop-size.md" %}
 
