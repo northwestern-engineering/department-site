@@ -8,7 +8,7 @@ This document specifies the blah blah blah
 
 ## Example content reference - Main McCormick Site
 
-{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/whats_responsive/README.md" %
+{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/whats_responsive/README.md" %}
 
 
 {% include "git+https://git.gitbook.com/caseycolby/test-book.git/README.md" %}
