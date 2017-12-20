@@ -14,5 +14,5 @@
   * [Homepage](module_5_department_page_types/homepage.md)
 * [TEST](test.md)
   * [testTEST](test/testtest.md)
-* [What's Responsive?](whats-responsive.md)
+* [What's Responsive?](whats-responsive/README.md)
 
