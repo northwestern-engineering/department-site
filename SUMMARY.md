@@ -10,7 +10,7 @@
   * [The Home Screen ](module-1-cascade-basics-i-getting-familiar/the-home-screen.md)
   * [The Toolbar    ](module-1-cascade-basics-i-getting-familiar/the-toolbar.md)
   * [The Dashboard](module-1-cascade-basics-i-getting-familiar/the-dashboard.md)
-  * Assets
+  * [Assets](module-1-cascade-basics-i-getting-familiar/assets.md)
 * [Module 5: Department Page Types](module_5_department_page_types/README.md)
   * [People Listing](module_5_department_page_types/people_listing.md)
   * [Faculty Listing](module_5_department_page_types/faculty_listing.md)
