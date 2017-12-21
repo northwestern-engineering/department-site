@@ -1,2 +1,2 @@
-{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_2/publish-unpublish.md" %}
+{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_2/publishunpublish.md" %}
 
