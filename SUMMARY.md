@@ -21,7 +21,7 @@
   * [Sidebar Options](module_2/sidebar_options.md)
   * [Draft](module_2/draft.md)
   * [Save & Preview Vs. Submit](module_2/saveprev_submit.md)
-  * [Submit Vs. Publish](module_2/submit_vs_publish.md)
+  * [Submit Vs. Publish](module_2/submit_publish.md)
   * [Publishing or Un-publishing Your Assets ](module_2/publish_unpublish.md)
   * [Publishing the Entire Website](module_2/publish_entire.md)
   * [Writing for the Web](module_2/writing_fortheweb.md)
