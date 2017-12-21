@@ -1,1 +1,1 @@
-{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_2/headings-subheadings.md" %}
+{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_2/heads-subheads.md" %}
