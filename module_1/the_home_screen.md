@@ -1,1 +1,1 @@
-{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_1/the-home-screen.md" %}
+{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_1/homescreen.md" %}
