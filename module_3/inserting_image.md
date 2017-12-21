@@ -1,4 +1,4 @@
-{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_3/inserting-image.md" %}
+{% include "git+https://git.gitbook.com/northwestern-engineering/main-mccormick-site.git/module_3/insertingimage.md" %}
 
 
 
