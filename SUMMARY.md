@@ -60,6 +60,4 @@
   * [Course Listing](module_6/course_listing.md)
   * [Course Description](module_6/course_description.md)
   * [Homepage](module_6/homepage.md)
-* [TEST](test.md)
-  * [testTEST](test/testtest.md)
 
